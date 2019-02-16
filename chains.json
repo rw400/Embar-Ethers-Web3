@@ -1,0 +1,18 @@
+{
+  "0x832f7a8f33172f9417e28f0dfb04a292302b3a500cbf7017a1ad94f14d04aff5": {
+    "contracts": {
+      "0xb596fde80d9c4152a79f660416d0ecd6902111bd89159d0f69fcd9c1ebc6c806": {
+        "name": "UseCase",
+        "address": "0x4b773d847E53Ed114e9199f955B85C9B1528A5F5"
+      }
+    }
+  },
+  "0x9c9224ef9aa1e1f7af271afe3ece20016e4a0c490c594458df9160e301e5ef34": {
+    "contracts": {
+      "0xb596fde80d9c4152a79f660416d0ecd6902111bd89159d0f69fcd9c1ebc6c806": {
+        "name": "UseCase",
+        "address": "0xE74dd5d455cD442d4C8a84Dbe21f33225C3F67ed"
+      }
+    }
+  }
+}

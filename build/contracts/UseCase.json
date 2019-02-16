@@ -1,0 +1,45 @@
+{
+  "args": [
+    100
+  ],
+  "className": "UseCase",
+  "code": "6080604052348015600f57600080fd5b50604051602080607483398101806040526020811015602d57600080fd5b5051600055603580603f6000396000f3fe6080604052600080fdfea165627a7a7230582044275ba10fc03c0d5fb38f484ffa2baec41b45a958db72bf5127b6f4b9cde97c0029",
+  "runtimeBytecode": "6080604052600080fdfea165627a7a7230582044275ba10fc03c0d5fb38f484ffa2baec41b45a958db72bf5127b6f4b9cde97c0029",
+  "realRuntimeBytecode": "6080604052600080fdfea165627a7a72305820",
+  "swarmHash": "44275ba10fc03c0d5fb38f484ffa2baec41b45a958db72bf5127b6f4b9cde97c",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "10600",
+      "executionCost": "20145",
+      "totalCost": "30745"
+    }
+  },
+  "functionHashes": {},
+  "abiDefinition": [
+    {
+      "inputs": [
+        {
+          "name": "_integer",
+          "type": "uint256"
+        }
+      ],
+      "payable": false,
+      "stateMutability": "nonpayable",
+      "type": "constructor",
+      "signature": "constructor"
+    }
+  ],
+  "filename": "UseCase.sol",
+  "gas": 94026,
+  "gasPrice": "20000000000",
+  "type": "file",
+  "deploy": true,
+  "_gasLimit": false,
+  "error": false,
+  "deploymentAccount": "0x229D7e73f7049B7C942DcecDC161a1F86482097E",
+  "realArgs": [
+    100
+  ],
+  "deployedAddress": "0x4b773d847E53Ed114e9199f955B85C9B1528A5F5",
+  "transactionHash": "0x3d927dfcd89756b7204f19a2dae5e3027131a5a7c29bc277993df1b58d971713"
+}
